@@ -6,7 +6,7 @@ Elegir una de las opciones:
 
 ![pantalla-inicial](https://github.com/leorss/Transfers-AS400/blob/master/Imagenes/Pantalla%20Inicial.jpg)
 
-Fornecer los siguientes parametros:
+Digitar los parámetros requeridos:
 
 ![pantalla-parametros](https://github.com/leorss/Transfers-AS400/blob/master/Imagenes/Pantalla%20Parametros.jpg)
 
